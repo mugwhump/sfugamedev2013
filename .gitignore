@@ -5,6 +5,8 @@ UnityGenerated/
 Library/
 Assets/scratch.unity
 Assets/scratch.unity.meta
+Assets/scratch/**
+Assets/scratch.meta
  
 # ----[ Visual Studio / MonoDevelop generated ]------- #
  
