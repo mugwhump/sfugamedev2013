@@ -6,6 +6,6 @@ SFU Game Developers Club Fall 2013 project - Unity game with Occulus Rift suppor
 Grayson
 Alex
 Glen
-Th
+Thomas
 Tu
 TrevRawr
